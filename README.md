@@ -1,4 +1,4 @@
-[Demo - Vercel](https://sg-corp-25d56yk7z-jelena-marjanovic.vercel.app/)
+[Demo - Vercel](https://sg-corp-jelena-marjanovic.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
